@@ -3,3 +3,5 @@ Name: Tim
 My favorite color is: blue
 
 My favorite animal is: lemur
+
+My favorite movie is: Terrifier 2
